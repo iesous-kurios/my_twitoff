@@ -17,7 +17,6 @@ gunicorn = "*"
 scikit-learn = "*"
 birdisle = "*"
 python-dotenv = "*"
-gunicorn = "*"
 
 [requires]
 python_version = "3.6.9"
