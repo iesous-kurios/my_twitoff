@@ -1,1 +1,1 @@
-heroku ps:scale web=1
+web: gunicorn index:server -t 120
